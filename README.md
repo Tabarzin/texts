@@ -10,6 +10,7 @@
   - [Персоналии](#persons)
 
 **[Статьи для Qase](#qase)**
+**[Хабр](#habr)**
 
 ## <a name="skillbox"> Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)</a>
 
@@ -88,4 +89,8 @@
 - [A guide to black box vs. white box testing](https://qase.io/blog/black-box-vs-white-box-testing/)
 - [A beginner's guide to behavior-driven development (BDD)](https://qase.io/blog/behavior-driven-development/)
 - [Test driven development: What it is and the benefits of using it](https://qase.io/blog/test-driven-development/)
+
+## <a name="habr">Хабр</a>
+
+- [Мечтают ли андроиды о нирване?](https://habr.com/ru/articles/530464/)
 
