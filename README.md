@@ -1,7 +1,7 @@
 # Портфолио
 Мои тексты на русском и английском языках.
 
-- [Статьи для Skillbox Media](#skillbox):
+**[Статьи для Skillbox Media](#skillbox)**:
   - [Избранное](#best)
   - [Дайджесты, подборки и обзоры](#digest)
   - [Программирование и технологии](#programming)
@@ -9,7 +9,7 @@
   - [История IT](#history)
   - [Персоналии](#persons)
 
-- [Статьи для Qase](#qase)
+**[Статьи для Qase](#qase)**
 
 ## <a name="skillbox"> Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)</a>
 
