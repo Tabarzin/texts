@@ -1,11 +1,17 @@
 # Портфолио
 Мои тексты на русском и английском языках.
 
-- [Статьи для Skillbox Media](#skillbox)
+- [Статьи для Skillbox Media](#skillbox):
+  - [Избранное](#best)
+  - [Дайджесты, подборки и обзоры](#digest)
+  - [Программирование и технологии](#programming)
+  - [Что такое N?](#whatis)
+  - [История IT](#history)
+  - [Персоналии](#persons)
 
 ## <a name="skillbox"> Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)</a>
 
-### Избранное
+### <a name="best">Избранное</a>
 
 - [TempleOS: как Терри Дэвис ОС по Божьему велению делал](https://skillbox.ru/media/code/templeos-kak-terri-devis-os-po-bozhemu-veleniyu-delal/)
 - [Обфусцируй это: конкурс по запутыванию кода на C](https://skillbox.ru/media/code/obfustsiruy-eto-konkurs-po-zaputyvaniyu-koda-na-c/)
@@ -14,7 +20,7 @@
 - [Голубая коробочка и пузырьки веселья: как первые хакеры игрались с телефонными сетями](https://skillbox.ru/media/code/golubaya-korobochka-i-puzyrki-veselya-kak-pervye-khakery-igralis-s-telefonnymi-setyami/)
 
 
-### Дайджесты, подборки и обзоры
+### <a name="digest">Дайджесты, подборки и обзоры</a>
 - [Из кузнецов в программисты и 3519 калькуляторов: самое интересное в IT за октябрь](https://skillbox.ru/media/code/iz-kuznetsov-v-programmisty-i-3519-kalkulyatorov-samye-interesnoe-v-it-za-oktyabr)
 - [Бесполезный софт, бредогенератор и 30 советов джуну: о чём писали IT-медиа в ноябре](https://skillbox.ru/media/code/bespoleznyy-soft-bredogenerator-i-30-sovetov-dzhunu-o-chyem-pisali-itmedia-v-noyabre)
 - [IT-тренды 2024 года, ИИ — воришка паролей и секреты JavaScript: самое интересное в декабре](https://skillbox.ru/media/code/ittrendy-2024-goda-ii-vorishka-paroley-i-sekrety-javascript-samoe-interesnoe-v-dekabre/)
@@ -29,7 +35,7 @@
 - [Выбрось свои книги: 20 игр, которые научат кодить и не только](https://skillbox.ru/media/code/20-igr-kotorye-nauchat-kodit-i-ne-tolko/)
 
 
-### Программирование и технологии
+### <a name="programming">Программирование и технологии</a>
 - [Мы с Тамарой кодим парой: что такое парное программирование](https://skillbox.ru/media/code/my-s-tamaroy-kodim-paroy-chto-takoe-parnoe-programmirovanie/)
 - [HTMX: что это за библиотека и почему она может вытеснить Vue и React](https://skillbox.ru/media/code/htmx-chto-eto-za-biblioteka-i-pochemu-ona-mozhet-vytesnit-vue-i-react/)
 - [JSON: что это за формат и как с ним работать](https://skillbox.ru/media/code/json-chto-eto-za-format-i-kak-s-nim-rabotat/)
@@ -40,14 +46,14 @@
 - [В чём Logica: зачем Google сделала новый язык программирования](https://skillbox.ru/media/code/zachem-google-sdelal-novyy-yazyk-programmirovaniya/)
 
 
-### Что такое N?
+### <a name="whatis">Что такое N?</a>
 - [Хакеры: кто они, какие бывают и при чём тут шляпы](https://skillbox.ru/media/code/khakery-kto-oni-kakie-byvayut-i-pri-chyem-tut-shlyapy)
 - [Что такое ошибка выжившего и как её избежать](https://skillbox.ru/media/code/ostorozhno-delfiny-oshibka-vyzhivshego-i-kak-eye-izbezhat/)
 - [Машина Тьюринга — что это: роскошь или средство вычисления?](https://skillbox.ru/media/code/mashina-tyuringa-chto-eto-roskosh-ili-sredstvo-vychisleniya/)
 - [Тест Тьюринга: отличите ли вы ИИ от человека](https://skillbox.ru/media/code/test-tyuringa-otlichite-li-vy-ii-ot-cheloveka/)
 
 
-### История IT
+### <a name="history">История IT</a>
 
 - [На дне: подводные кабели и межконтинентальный интернет](https://skillbox.ru/media/code/na-dne-podvodnye-kabeli-i-mezhkontinentalnyy-internet/)
 - [BBS: электронная доска из модема и телефонного провода](https://skillbox.ru/media/code/bbs-elektronnaya-doska-iz-modema-i-telefonnogo-provoda/)
@@ -56,7 +62,7 @@
 - [PARC компьютерного периода: кто, где и как создавал технологии современности](https://skillbox.ru/media/code/parc-kompyuternogo-perioda/)
 - [Почему команда Linux забанила Университет Миннесоты](https://skillbox.ru/media/code/pochemu-komanda-linux-zabanila-universitet-minnesoty/)
 
-### Персоналии
+### <a name="persons">Персоналии</a>
 
 - [«Мать всех демонстраций»: как Дуглас Энгельбарт показал людям будущее](https://skillbox.ru/media/code/mat-vsekh-demonstratsiy-kak-duglas-engelbart-pokazal-lyudyam-budushchee/)
 - [Программист космического уровня: Маргарет Гамильтон](https://skillbox.ru/media/code/programmist-kosmicheskogo-urovnya-margaret-gamilton/)
