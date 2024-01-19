@@ -79,7 +79,7 @@
 - [Поль Отле: бумажный веб и аналоговый планшет](https://skillbox.ru/media/code/pol-otle-bumazhnyy-veb-i-analogovyy-planshet/)
 - [Тед Нельсон: человек и гипертекст](https://skillbox.ru/media/code/ted-nelson-chelovek-i-gipertekst/)
 
-## <a name="qase">Статьи для [Qase](https://qase.io/blog/author/rustam/)https://qase.io/blog/author/rustam/)</a>
+## <a name="qase">Статьи для [Qase](https://qase.io/blog/author/rustam/)</a>
 
 - [A complete guide to smoke testing](https://qase.io/blog/smoke-testing/)
 - [Regression testing: a complete guide](https://qase.io/blog/regression-testing/)
