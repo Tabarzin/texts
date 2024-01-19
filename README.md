@@ -1,8 +1,9 @@
 # Портфолио
-
 Мои тексты на русском и английском языках.
 
-## Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)
+- [Статьи для Skillbox Media](#skillbox)
+
+## <a name="skillbox"> Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)</a>
 
 ### Избранное
 
