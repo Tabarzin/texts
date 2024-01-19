@@ -9,6 +9,8 @@
   - [История IT](#history)
   - [Персоналии](#persons)
 
+- [Статьи для Qase](#qase)
+
 ## <a name="skillbox"> Статьи для [Skillbox Media](https://skillbox.ru/media/authors/rustam-sabirov/)</a>
 
 ### <a name="best">Избранное</a>
@@ -77,5 +79,13 @@
 - [Поль Отле: бумажный веб и аналоговый планшет](https://skillbox.ru/media/code/pol-otle-bumazhnyy-veb-i-analogovyy-planshet/)
 - [Тед Нельсон: человек и гипертекст](https://skillbox.ru/media/code/ted-nelson-chelovek-i-gipertekst/)
 
+## <a name="qase">Статьи для [Qase](https://qase.io/blog/author/rustam/)https://qase.io/blog/author/rustam/)</a>
 
+- [A complete guide to smoke testing](https://qase.io/blog/smoke-testing/)
+- [Regression testing: a complete guide](https://qase.io/blog/regression-testing/)
+- [What is the Definition of Done?](https://qase.io/blog/definition-of-done/)
+- [What is acceptance criteria?](https://qase.io/blog/acceptance-criteria/)
+- [A guide to black box vs. white box testing](https://qase.io/blog/black-box-vs-white-box-testing/)
+- [A beginner's guide to behavior-driven development (BDD)](https://qase.io/blog/behavior-driven-development/)
+- [Test driven development: What it is and the benefits of using it](https://qase.io/blog/test-driven-development/)
 
