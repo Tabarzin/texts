@@ -69,7 +69,7 @@
 - [Рэй Курцвейл и его сингулярность](https://skillbox.ru/media/code/rey-kurcveyl-i-ego-singulyarnost/)
 - [Джон фон Нейман: архитектура жизни гениального математика](https://skillbox.ru/media/code/dzhon-fon-neyman-arkhitektura-zhizni-genialnogo-matematika/)
 
-### <a name="digest">GitHub-дайджесты</>
+### <a name="digest">GitHub-дайджесты</a>
 - [GitHub digest #1: ИИ‑ассистенты, виртуальная компания и AirDrop для бедных](https://skillbox.ru/media/code/github-mesyatsa-iiassistenty-virtualnaya-kompaniya-i-airdrop-dlya-bednykh/)
 - [GitHub digest #2: код по картинке, альтернативный Notion и хрестоматия «змееуста»](https://skillbox.ru/media/code/github-digest-2-kod-po-kartinke-alternativnyy-notion-i-khrestomatiya-zmeeusta/)
 - [GitHub digest #3: карманный ИИ, конструктор резюме и бесплатная Jira на стероидах](https://skillbox.ru/media/code/github-digest-3-karmannyy-ii-konstruktor-rezyume-i-besplatnaya-jira-na-steroidakh/)
@@ -89,7 +89,7 @@
 - [Github digest №18: работа в консоли без кода, ИИ-тамагочи и ностальгия по Windows 95](https://skillbox.ru/media/code/github-digest-18-rabota-v-konsoli-bez-koda-ii-tamagochi-i-nostalgiya-po-windows-95/)
 
 
-### <a name="news">Новости и подборки</>
+### <a name="news">Новости и подборки</a>
 - [JavaScript в расцвете сил, Rust не ржавеет, а PHP снова умер](https://skillbox.ru/media/code/javascript-v-rascvete-sil-rust-ne-rzhaveet-a-php-snova-umer/)
 - [Из кузнецов в программисты и 3519 калькуляторов: самое интересное в IT за октябрь](https://skillbox.ru/media/code/iz-kuznetsov-v-programmisty-i-3519-kalkulyatorov-samye-interesnoe-v-it-za-oktyabr)
 - [Бесполезный софт, бредогенератор и 30 советов джуну: о чём писали IT-медиа в ноябре](https://skillbox.ru/media/code/bespoleznyy-soft-bredogenerator-i-30-sovetov-dzhunu-o-chyem-pisali-itmedia-v-noyabre)
