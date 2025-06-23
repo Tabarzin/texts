@@ -42,6 +42,7 @@
 - [Что такое ошибка выжившего и как её избежать](https://skillbox.ru/media/code/ostorozhno-delfiny-oshibka-vyzhivshego-i-kak-eye-izbezhat/)
 - [Машина Тьюринга — что это: роскошь или средство вычисления?](https://skillbox.ru/media/code/mashina-tyuringa-chto-eto-roskosh-ili-sredstvo-vychisleniya/)
 - [Тест Тьюринга: отличите ли вы ИИ от человека](https://skillbox.ru/media/code/test-tyuringa-otlichite-li-vy-ii-ot-cheloveka/)
+- [Что такое цифровая гуманитаристика и зачем она нужна](https://skillbox.ru/media/code/chto-takoe-cifrovaya-gumanitaristika-i-zachem-ona-nuzhna/)
 
 
 ### <a name="history">История IT</a>
@@ -117,7 +118,6 @@
 - [Развитие ИИ, закат Stack Overflow, ценность личного блога и восходящие звёзды JavaScript](https://skillbox.ru/media/code/razvitie-ii-zakat-stack-overflow-cennost-lichnogo-bloga-i-voshodyaschie-zvezdy-javascript/)
 - [Топ-40 книг 2023 года по версии пользователей Hacker News](https://skillbox.ru/media/code/top-40-knig-2023-goda-po-versii-polzovateley-hacker-news/)
 - [Трудности разработчиков, провал Copilot и вызовы ИИ в Африке](https://skillbox.ru/media/code/trudnosti-razrabotchikov-proval-copilot-i-vyzovy-ii-v-afrike/)
-- [Что такое цифровая гуманитаристика и зачем она нужна](https://skillbox.ru/media/code/chto-takoe-cifrovaya-gumanitaristika-i-zachem-ona-nuzhna/)
 - [«Слежка за культурой», чат-боты в полиции и «отравление» кэша](https://skillbox.ru/media/code/slezhka-za-kulturoy-chat-boty-v-policii-i-otravlenie-kesha/)
 - [Зачем учить Rust, как победить прокрастинацию и почему не стоит тратить время на React](https://skillbox.ru/media/code/zachem-uchit-rust-kak-pobedit-prokrastinaciyu-i-pochemu-ne-stoit-tratit-vremya-na-react/)
 - [JavaScript в расцвете сил, Rust не ржавеет, а PHP снова умер](https://skillbox.ru/media/code/javascript-v-rascvete-sil-rust-ne-rzhaveet-a-php-snova-umer/)
